@@ -1,0 +1,2 @@
+django insta copy project 
+
